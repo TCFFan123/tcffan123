@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning GRUB2 and bash
 - 📫 How to reach me: tcffanyt+github@gmail.com (no I don't work for GitHub, I just use "+github" for notifications specific to the repo's I create)
 - 😄 Pronouns: he/him
-
+- NOTE: Yea this accounts kinda dead for right now, there is not much activity here
